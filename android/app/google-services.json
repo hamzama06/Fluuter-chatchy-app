@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204862648305",
+    "project_id": "chatchy-app",
+    "storage_bucket": "chatchy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204862648305:android:67bec79d95edf9f0efde50",
+        "android_client_info": {
+          "package_name": "com.maouni92.chatchy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204862648305-fvsib1lcd2st25tfn6ga8940kdk0gj2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-I-RlNlG0ceXJ21UZLHuVUN_vFmM2Oog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204862648305-fvsib1lcd2st25tfn6ga8940kdk0gj2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
