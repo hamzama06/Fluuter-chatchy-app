@@ -1,16 +1,27 @@
 # chatchy
 
-A new Flutter project.
+## Description
+Chatchy is a chat app built using flutter (dart language)
 
-## Getting Started
+## Screenshots
+![Chatchy mockup 1](https://user-images.githubusercontent.com/41952694/142209592-79a0a2cf-a9bc-45be-9858-4b5cc7ea2c38.jpg)
 
-This project is a starting point for a Flutter application.
+## Features
+ - Support dark theme
+ - Multiple languages (English, Frensh, Arabic)
+ - Login using email and password
+ - Searsh messages and friends by name
+ - Send and recieve images and texts instantly
+ - Simple and awesome UI
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencies
+ - Provider
+ - Firebase (backend)
+ - image picker
+ - flutter_keyboard_visibility
+ - shimmer
+ - shared_preferences
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Resources
+- [Unsplash](https://unsplash.com/) to get images 
+- [App-mockup](https://app-mockup.com/) for mockup
